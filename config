@@ -4,7 +4,7 @@ profile docked {
 }
 
 profile undocked {
-	output eDP-1 enable scale 1.25 mode 3840x2160 position 0,0
+	output eDP-1 enable scale 1.2 mode 3840x2160 position 0,0
 }
 
 profile desktop {
